@@ -1,0 +1,15 @@
+body{
+  text-align:center;
+  background: linear-gradient(#E1BEE7 0%,#90CAF9 100%);
+  background-repeat:no-repeat;
+}
+  #holder{
+    height:246px;
+  }
+  #pageName{
+    font-family: 'Langar', cursive;
+  }
+  #topMenu{
+    text-align:left;
+    width:20%;
+  }
